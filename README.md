@@ -1,6 +1,9 @@
 Dependencies:
+
 NPM (Node.js, npx, react, firebase, react-firebase-hooks)
+
 Firebase (Cloud Firestore)
+
 In src/App.js, change the contents of firebase.initialiseApp() to your config in firebase/Project Settings
 
 # How to Run
